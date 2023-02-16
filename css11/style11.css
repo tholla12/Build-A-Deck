@@ -1,0 +1,33 @@
+body{
+  background-image: url(../background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image2{
+  width: 350px;
+  height: 500px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 7px white;
+  cursor: pointer;
+}
+.display{
+  display: none;
+  color: white;
+  list-style: none;
+}
+#game{
+  background-color: red;
+  border-style:  none;
+  border-radius: 12px;
+  width: 200px;
+  font-weight: bolder;
+  margin-top: 20px;
+  margin-left: 340px;
+}
+h1{
+  color: white;
+  padding-top: 20px;
+  margin-left: 340px;
+}
+
